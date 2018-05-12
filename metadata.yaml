@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9659
 description: An account of experiences in the Philippines by one of the teachers sent
   out by the United States government.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20996#An-Epoch-in-History
 gutenberg_issued: '2007-04-05'
 gutenberg_type: Text
 identifiers:

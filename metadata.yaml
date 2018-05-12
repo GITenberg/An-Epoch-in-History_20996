@@ -1,0 +1,28 @@
+_repo: An-Epoch-in-History_20996
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20996-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eley, P. H. (Peter Harden)
+    alias: Eley, Peter Harden
+    birthdate: 1876
+    gutenberg_agent_id: '9659'
+    url: http://www.gutenberg.org/2009/agents/9659
+description: An account of experiences in the Philippines by one of the teachers sent
+  out by the United States government.
+gutenberg_issued: '2007-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Description and travel'
+- !lcsh 'Educational assistance, American -- Philippines'
+- !lcc 'DS'
+title: An Epoch in History
+url: http://www.gutenberg.org/ebooks/20996
